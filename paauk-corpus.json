@@ -1,0 +1,43 @@
+{
+	"name": "paauk",
+	"title": "帕奧禪林文摘",
+	"bits":[ 3, 12, 5, 8 ],
+	"toc":"h0",
+	"external": {
+		"footnotes": "s.json"
+	},
+	"rendClass": [
+		"kai",
+		"b",
+		"tag",
+		"l",
+		"je",
+		"le",
+		"xa",
+		"wi",
+		"pe",
+		"zi",
+		"by",
+		"bf",
+		"bz",
+		"ask",
+		"rep",
+		"si",
+		"sr",
+		"year",
+		"h0",
+		"book",
+		"sarticle",
+		"va",
+		"eng",
+		"talk"
+	],
+	"files": [
+		"paauk.xml",
+		"paauk_ps1.xml",
+		"ruba 4 way.xml",
+		"ways 14 of mind.xml",
+		"peace.xml",
+		"paauk02.xml"
+	]
+}
