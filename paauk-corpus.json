@@ -1,10 +1,8 @@
 {
 	"name": "paauk",
 	"title": "帕奧禪林文摘",
-	"bits":[ 3, 12, 5, 8 ],
-	"toc":"h0",
 	"external": {
-		"footnotes": "s.json"
+		"footnotes": "xml/p.json"
 	},
 	"rendClass": [
 		"kai",
@@ -32,12 +30,14 @@
 		"eng",
 		"talk"
 	],
+	"images": ["p/paauk0001.png","p/3a-Four Elements12122004.html","p/LakkhanaRasaTable1.html","p/paauk0004.png","p/paauk0005.png","p/paauk0006.png","p/paauk0007.png","p/paauk0009.png","p/paauk0010.png","p/paauk0011.png","p/paauk0012.png","p/paauk0002.png","p/KusalaCittaTable.html","p/paauk0003.png","p/AKusalaCittaTable.html","p/paauk1000.png","p/paauk1003.png","p/paauk1002.png","p/paauk1010.png","p/paauk1001.png","p/paauk1011.png","p/paauk1012.png","p/paauk1013.png","p/paauk1014.png","p/paauk1015.png","p/paauk1016.png","p/paauk1017.png","p/paauk1018.png","p/paauk1019.png","p/paauk1020.png","p/paauk1021.png","p/paauk1022.png","p/paauk1023.png","p/paauk1024.png","p/paauk1025.png","p/paauk1026.png","p/paauk1027.png","p/paauk1028.png","p/paauk1029.png","p/paauk1030.png","p/paauk1031.png","p/paauk1032.png","p/paauk1033.png","p/paauk1034.png","p/paauk1035.png","p/paauk1011.png","p/paauk1012.png","p/paauk1013.png","p/paauk1014.png","p/paauk1015.png","p/paauk1016.png","p/paauk1017.png","p/paauk1018.png","p/paauk1019.png","p/paauk1020.png","p/paauk1021.png","p/paauk1022.png","p/paauk1023.png","p/paauk1024.png","p/paauk1025.png","p/paauk1026.png","p/paauk1027.png","p/paauk1028.png","p/paauk1029.png","p/paauk1030.png","p/paauk1036.png","p/paauk1037.png","p/paauk1038.png","p/paauk1039.png","p/paauk1040.png","p/paauk1041.png","p/paauk1042.png","p/paauk1043.png","p/paauk1044.png","p/paauk1045.png","p/paauk1046.png","p/paauk1047.png","p/paauk1048.png","p/paauk1049.png","p/paauk1050.png","p/paauk1051.png","p/paauk1052.png","p/paauk1053.png","p/paauk1054.png","p/paauk1055.png","p/paauk1056.png","p/paauk1057.png","p/paauk1058.png","p/paauk1059.png","p/paauk1060.png","p/paauk1028.png","p/四界的十二種特相或性質.html","p/順逆遍.html","p/跳遍.html","p/跳禪與遍.html","p/超所緣.html","p/超支與所緣.html","p/14 六神通的修法.html"
+	],
 	"files": [
-		"paauk.xml",
-		"paauk_ps1.xml",
-		"ruba 4 way.xml",
-		"ways 14 of mind.xml",
-		"peace.xml",
-		"paauk02.xml"
+		"xml/paauk.txt.xml",
+		"xml/paauk_ps1.txt.xml",
+		"xml/ruba 4 way.txt.xml",
+		"xml/ways 14 of mind.txt.xml",
+		"xml/peace.txt.xml",
+		"xml/paauk02.txt.xml"
 	]
 }

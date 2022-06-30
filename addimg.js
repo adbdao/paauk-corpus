@@ -38,7 +38,7 @@ function XmlAddMypb(go) {
             for (var i = 0; i < b.length; i++) {
                 // 取代標記
                 if (/<img/.test(b[i]) && /\\/.test(b[i])) {
-                    b[i] = b[i].replace(/(<img[^\\]+)\\([^>]+>)/g, '$1/$2')
+                    b[i] = b[i].replace(/(<img[^\\]+)P\\([^>]+>)/g, '$1p/$2')
                 }
             }
 
